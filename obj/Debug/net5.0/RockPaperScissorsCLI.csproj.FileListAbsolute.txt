@@ -1,0 +1,16 @@
+D:\Revature\RockPaperScissorsCLI\bin\Debug\net5.0\RockPaperScissorsCLI.exe
+D:\Revature\RockPaperScissorsCLI\bin\Debug\net5.0\RockPaperScissorsCLI.deps.json
+D:\Revature\RockPaperScissorsCLI\bin\Debug\net5.0\RockPaperScissorsCLI.runtimeconfig.json
+D:\Revature\RockPaperScissorsCLI\bin\Debug\net5.0\RockPaperScissorsCLI.runtimeconfig.dev.json
+D:\Revature\RockPaperScissorsCLI\bin\Debug\net5.0\RockPaperScissorsCLI.dll
+D:\Revature\RockPaperScissorsCLI\bin\Debug\net5.0\ref\RockPaperScissorsCLI.dll
+D:\Revature\RockPaperScissorsCLI\bin\Debug\net5.0\RockPaperScissorsCLI.pdb
+D:\Revature\RockPaperScissorsCLI\obj\Debug\net5.0\RockPaperScissorsCLI.csproj.AssemblyReference.cache
+D:\Revature\RockPaperScissorsCLI\obj\Debug\net5.0\RockPaperScissorsCLI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature\RockPaperScissorsCLI\obj\Debug\net5.0\RockPaperScissorsCLI.AssemblyInfoInputs.cache
+D:\Revature\RockPaperScissorsCLI\obj\Debug\net5.0\RockPaperScissorsCLI.AssemblyInfo.cs
+D:\Revature\RockPaperScissorsCLI\obj\Debug\net5.0\RockPaperScissorsCLI.csproj.CoreCompileInputs.cache
+D:\Revature\RockPaperScissorsCLI\obj\Debug\net5.0\RockPaperScissorsCLI.dll
+D:\Revature\RockPaperScissorsCLI\obj\Debug\net5.0\ref\RockPaperScissorsCLI.dll
+D:\Revature\RockPaperScissorsCLI\obj\Debug\net5.0\RockPaperScissorsCLI.pdb
+D:\Revature\RockPaperScissorsCLI\obj\Debug\net5.0\RockPaperScissorsCLI.genruntimeconfig.cache
